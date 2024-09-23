@@ -4,9 +4,9 @@ public class Main
     {
         int intOperandA = 1;
         int intOperandB = 4;
-        int intSum = 10;
-        int intProduct = 15;
-        int intDifference = 20;
+        int intSum = 5;
+        int intProduct = 4;
+        int intDifference = -3;
         int intQuotient = 6;
         int intModulo = 12;
         double doubleOperandA = 3.50;
